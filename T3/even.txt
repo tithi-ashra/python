@@ -1,0 +1,5 @@
+#even number
+a = int(input("Enter Number : "))#number
+#for check in number
+if a%2==0:#even
+    print('even')
